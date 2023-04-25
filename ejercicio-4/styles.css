@@ -1,0 +1,25 @@
+body {
+  background-color: #2b2b2b;
+  color: #fff;
+}
+
+html {
+  font-family: monospace;
+  letter-spacing: 1.5px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+.contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#btn {
+  padding: 5px;
+  border-radius: 5px;
+  width: 150px;
+}
